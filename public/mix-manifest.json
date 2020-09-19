@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/vendors~view-Reports-vue.bundle.js": "/js/vendors~view-Reports-vue.bundle.js",
+    "/js/view-Billing-vue.bundle.js": "/js/view-Billing-vue.bundle.js",
+    "/js/view-Copyright-vue.bundle.js": "/js/view-Copyright-vue.bundle.js",
+    "/js/view-Dashboard-vue.bundle.js": "/js/view-Dashboard-vue.bundle.js",
+    "/js/view-LoadingScreen-vue.bundle.js": "/js/view-LoadingScreen-vue.bundle.js",
+    "/js/view-Notes-vue.bundle.js": "/js/view-Notes-vue.bundle.js",
+    "/js/view-Notifications-vue.bundle.js": "/js/view-Notifications-vue.bundle.js",
+    "/js/view-PageNotFound-vue.bundle.js": "/js/view-PageNotFound-vue.bundle.js",
+    "/js/view-Reports-vue.bundle.js": "/js/view-Reports-vue.bundle.js",
+    "/js/view-Settings-vue.bundle.js": "/js/view-Settings-vue.bundle.js",
+    "/js/view-ShiftHistory-vue.bundle.js": "/js/view-ShiftHistory-vue.bundle.js",
+    "/js/view-Support-vue.bundle.js": "/js/view-Support-vue.bundle.js",
+    "/js/view-Team-vue.bundle.js": "/js/view-Team-vue.bundle.js",
+    "/js/view-UserActions-vue.bundle.js": "/js/view-UserActions-vue.bundle.js"
+}
